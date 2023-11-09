@@ -4,7 +4,7 @@ int main(void)
 {
 	int ki=0;
 	cin>>ki;
-	cout<<ki+2<<endl;
+	cout<<ki+55<<endl;
 
 	return 0;
 }
